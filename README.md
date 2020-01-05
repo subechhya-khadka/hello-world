@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi Everyone, I'm Shubechhya khadka.
+i love tacos.
+
